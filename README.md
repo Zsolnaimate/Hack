@@ -1,0 +1,2 @@
+# Hack
+Minecraft szerver hackelés
